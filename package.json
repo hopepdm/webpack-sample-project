@@ -1,0 +1,14 @@
+{
+  "name": "webpack-sample-project",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hope_pdm",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^3.7.1"
+  }
+}
